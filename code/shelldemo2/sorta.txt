@@ -1,0 +1,9 @@
+-rw-r--r-- 1 51Testing 197121      0 Apr  7 11:35 repeat.txt
+-rw-r--r-- 1 51Testing 197121     11 Apr  7 09:47 gitdemo
+-rw-r--r-- 1 51Testing 197121     11 Apr  7 09:49 hello.txt
+-rw-r--r-- 1 51Testing 197121     56 Apr  7 11:22 ls-error.txt
+-rw-r--r-- 1 51Testing 197121     56 Apr  7 11:26 ls_output.txt
+-rw-r--r-- 1 51Testing 197121     74 Apr  7 11:15 cout.cpp
+-rwxr-xr-x 1 51Testing 197121 475277 Apr  7 11:15 a.exe*
+drwxr-xr-x 1 51Testing 197121      0 Apr  7 10:42 shelldemo/
+total 476
